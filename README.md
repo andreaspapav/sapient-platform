@@ -85,7 +85,9 @@ The following is the installation guide:
 
 Install all the requirements found in the 'requirements_pip.txt' on your system or virtual env then pull our Flask Implementation version repository, https://github.com/jasonshaoshun/OpenCV_Web . Installation instructions can be found on the README file of this repository.
 
-<h2>Demo</h2>
+<h2>Demo Video</h2>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sTBpBowPHQA
 " target="_blank"><img src="http://img.youtube.com/vi/sTBpBowPHQA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="720" height="480" border="10" /></a>
+
+This is our video demo created in order to demonstrate the feautres of our software to our client.
