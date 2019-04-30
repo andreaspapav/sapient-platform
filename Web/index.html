@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Sapient - AI Recognition Software</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" media="screen" href="css/style.css">
+  <link rel="stylesheet" media="screen" href="css/curtain_animation.css">
+  <link rel="stylesheet" media="screen" href="css/animate.css">
+  <link rel="stylesheet" media="screen" href="css/menu.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
+
+
+</head>
+
+<body>
+  <div class="curtain">
+
+    <!-- The component wrapper -->
+    <div class="curtain__wrapper">
+      <!--Trigger Buttons for the Abstracts-->
+      <img id="itemTrigger" src="img/parts_hover.png" class="itemTrigger" onmouseover="showRecognition('itemAbstract','fadeInLeft','fadeOutLeft');" onmouseout="hideRecognition('itemAbstract','fadeInLeft','fadeOutLeft');">
+      <img id="postTrigger" src="img/parts_hover.png" class="postTrigger" onmouseover="showRecognition('postAbstract','fadeInRight','fadeOutRight');" onmouseout="hideRecognition('postAbstract','fadeInRight','fadeOutRight');">
+      <img id="faceTrigger" src="img/parts_hover.png" class="faceTrigger" onmouseover="showRecognition('faceAbstract','fadeInUp','fadeOutDown');" onmouseout="hideRecognition('faceAbstract','fadeInUp','fadeOutDown');">
+      <!--Sapient Home Logo Image-->
+      <img id="logo" src="img/logo.png" class="logo">
+
+      <!-- Abstracts of our Sapient API Software-->
+      <div id="itemAbstract" class="itemRec">Google Vision API linked to our Recognition API in order <br/>to recognise the top five most significant <br/>objects in the frame. This is used to <br/>recognise dangerous objects like knives, guns and etc.</div>
+      <div id="postAbstract" class="postRec">Our own developed Posture API using the OpenPose SDK, in order to analyse the posture of humans in the frame. Specifically three postures were trained in our model, Standing, Sitting and Laying.</div>
+      <div id="faceAbstract" class="faceRec">Again our own developed Face API using the OpenCV SDK. This can be used in order to track down a specific person in the video frame. This can be used in the future to track down wanted criminals.</div>
+
+      <img id="startbtn" src="img/startbtn.png" class="startbtn2" onclick="animate_Forward()">
+
+      <!-- Checkbox used to trigger the curtain effect -->
+      <input id="checkbox_Trigger" name="checkbox_Trigger" type="checkbox" checked>
+
+      <!-- The left curtain panel -->
+      <div class="curtain__panel curtain__panel--left">
+        <div id="particles-js">
+        </div>
+      </div><!-- curtain__panel -->
+
+      <!-- The prize behind the curtain panels -->
+      <div class="curtain__prize">
+        <img src="img/menu_backgroundlight.gif" class="menu_background">
+        <img id="homebtn" src="img/image_upload/home.png" class="home_btn" onclick="animate_Backwards()">
+        <!-- Image Button -->
+        <div onmouseover="growbutton('imagebtn','imagetext');" onmouseout="shrinkbutton('imagebtn','imagetext');" onclick="grow_image_frame('imagebtn_details','imagetext','imagebtn');">
+          <img id="imagebtn" src="img/button_layout.png" class="imagebtn">
+          <img id="imagetext" src="img/image_text.png" class="imagetext">
+        </div>
+        <div>
+          <img id="imagebtn_details" src="img/button_layout_big.png" class="imagebtn_details" >
+          <img id="image_title" src="img/image_title.png" class="image_title">
+          <a href="image_upload.php"><img id="upload_icon" src="img/upload_icon.png" class="upload_icon"></a>
+          <a href="image_webcam.php"><img id="webcam_icon" src="img/webcam_icon.png" class="webcam_icon"></a>
+        </div>
+        <!-- Video Button -->
+        <div onmouseover="growbutton('videobtn','videotext');" onmouseout="shrinkbutton('videobtn','videotext');" onclick="grow_video_frame('videobtn_details','videotext','videobtn');">
+          <img id="videobtn" src="img/button_layout.png" class="videobtn">
+          <img id="videotext" src="img/video_text.png" class="videotext">
+        </div>
+        <div>
+          <img id="videobtn_details" src="img/button_layout_big.png" class="videobtn_details">
+          <img id="video_title" src="img/video_upload/video_title.png" class="video_title">
+          <a href="video_upload.php"><img id="video_icon" src="img/video_upload/video_icon.png" class="video_icon"></a>
+        </div>
+        <!-- Live Button -->
+        <div onmouseover="growbutton('livebtn','livetext');" onmouseout="shrinkbutton('livebtn','livetext');" onclick="grow_live_frame('livebtn_details','livetext','livebtn');">
+          <img id="livebtn" src="img/button_layout.png" class="livebtn">
+          <img id="livetext" src="img/live_text.png" class="livetext">
+        </div>
+        <div>
+          <img id="livebtn_details" src="img/button_layout_big.png" class="livebtn_details">
+        </div>
+
+      </div> <!-- curtain__prize -->
+
+      <!-- The right curtain panel -->
+      <div class="curtain__panel curtain__panel--right">
+
+        <div id="particles-js2">
+        </div>
+
+      </div> <!-- curtain__panel -->
+
+    </div> <!-- curtain__wrapper -->
+
+  </div> <!-- curtain -->
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="js/particles.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/app2.js"></script>
+  <script src="js/homepage_animation.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,150 @@
+Video start at 2019-04-21 16:45:20
+System Time of the Machine Running: 2019-04-21 16:47:26.730013, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:28.078762, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:43.479938, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:44.838063, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:46.218686, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:48.919633, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:50.282249, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:51.672471, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:53.050631, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:54.454789, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:55.874187, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:57.256180, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:47:58.626573, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:02.898634, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:04.258270, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:05.661217, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:11.196855, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:12.559029, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:13.893557, People under CCTV are ['laying' 'standing'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:15.240379, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:16.672150, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:18.055066, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:19.464983, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:20.880170, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:22.290978, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:23.670735, People under CCTV are ['sitting' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:25.106859, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:26.470074, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:27.840335, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:29.205232, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:30.569881, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:31.964224, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:33.370328, People under CCTV are ['laying' 'standing'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:34.776069, People under CCTV are ['laying' 'standing'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:36.159196, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:37.571751, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:38.991897, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:40.347556, People under CCTV are ['laying' 'sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:41.746052, People under CCTV are ['sitting' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:43.198586, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:44.579248, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:45.953940, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:47.370091, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:48.771981, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:50.166595, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:51.545679, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:52.968142, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:54.421339, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:55.828187, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:57.228561, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:48:58.675182, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:00.101225, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:01.538141, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:02.949999, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:04.360410, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:05.761932, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:07.137035, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:08.604962, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:10.034887, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:11.446380, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:12.877977, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:14.257618, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:15.608742, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:16.990412, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:18.416880, People under CCTV are ['laying' 'sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:19.851640, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:21.242528, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:22.614746, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:24.047810, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:25.480264, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:26.919328, People under CCTV are ['laying' 'sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:28.301738, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:29.715063, People under CCTV are ['laying' 'sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:31.094170, People under CCTV are ['laying' 'sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:32.531985, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:33.931659, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:35.365102, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:36.754011, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:38.191887, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:39.604890, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:40.965916, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:42.359458, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:43.774451, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:45.177409, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:46.620878, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:48.015329, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:49.445475, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:50.836988, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:52.199301, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:53.651362, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:55.086579, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:56.497301, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:57.910762, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:49:59.251660, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:00.617972, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:03.360373, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:04.759457, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:06.179173, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:07.587147, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:09.060269, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:10.480843, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:11.915411, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:13.293738, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:14.675808, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:17.521466, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:18.939497, People under CCTV are ['laying' 'laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:21.720508, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:23.114388, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:24.483280, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:25.829853, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:27.255735, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:28.706662, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:30.098441, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:31.507030, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:32.946942, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:34.329270, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:35.730441, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:37.097340, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:38.477989, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:39.836788, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:41.253201, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:42.672090, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:44.113627, People under CCTV are ['sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:45.524256, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:46.918561, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:48.372827, People under CCTV are ['laying' 'sitting'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:49.779990, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:51.142946, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:52.534696, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:53.950794, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:55.382402, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:56.813660, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:58.231481, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:50:59.680624, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:01.138126, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:02.497364, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:03.955568, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:05.373575, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:06.734130, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:08.166391, People under CCTV are ['laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:09.561948, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:10.943265, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:12.416110, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:13.821826, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:15.242166, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:16.682127, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:18.066170, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:19.417416, People under CCTV are ['laying' 'laying'] respectively
+System Time of the Machine Running: 2019-04-21 16:51:20.808474, People under CCTV are ['laying' 'laying'] respectively

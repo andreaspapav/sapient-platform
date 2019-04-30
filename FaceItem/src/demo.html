@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-color:powderblue;">
+<script>
+    function execute(command) {
+        $.ajax({
+            type: "POST",
+            url:"/Users/shunshao/Desktop/ai_recognition/src/faces.py",
+            async:false,
+            data:{param:command}
+        });
+    }
+</script>
+
+<h1 style="font-size:300%;text-align:center;">My First demo UI for Image/Video-Recognition</h1>
+<hr>
+<h2>The Button Element</h2>
+<button type="button" onclick="execute('')">Up Load Video!</button>
+<button type="button" onclick="execute('')">Camera Capture!</button>
+<button type="button" onclick="execute('')">Stop Recording!</button>
+<button type="button" onclick="execute('')">Progress!</button>
+
+<hr>
+<h3>Display the analyzed facial capture images</h3>
+<img src="analysis/1.png" alt="Girl with a jacket">
+<hr>
+<img src="analysis/2.png" alt="Girl with a jacket">
+
+<hr>
+<h4>Display object detection report</h4>
+<?php
+         $filename = "output.txt";
+         $file = fopen( $filename, "r" );
+
+         if( $file == false ) {
+            echo ( "Error in opening file" );
+            exit();
+         }
+
+         $filesize = filesize( $filename );
+         $filetext = fread( $file, $filesize );
+         fclose( $file );
+
+         echo ( "File size : $filesize bytes" );
+         echo ( "<pre>$filetext</pre>" );
+?>
+</body>
+</html>
+

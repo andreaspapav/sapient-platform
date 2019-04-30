@@ -1,0 +1,132 @@
+html,body{
+	width:100%;
+	height:100%;
+	overflow: hidden;
+}
+
+.background_image{
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  z-index: 1;
+}
+
+form{
+  z-index: 0;
+  position: absolute;
+  top: 0%;
+  height: 100vh;
+  width: 100%;
+  pointer-events:none;
+
+}
+
+.output_text{
+	font-size: 1.2rem;
+	position: absolute;
+	top: 27%;
+	left: 71%;
+	color: green;
+	font-family: 'Courier', sans-serif;
+	height: 45vh;
+	width: 26vw;
+	overflow-y: scroll!important;
+}
+
+.home_btn{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 4.5%;
+  padding-left: 1.5rem;
+  padding-top: 1.5rem;
+  opacity: 0.8;
+  z-index: 3;
+}
+
+.help_btn{
+  position: absolute;
+  top: 0%;
+  left: 96%;
+  width: 2.5%;
+  padding-top: 1.5rem;
+  opacity: 0.8;
+  z-index: 3;
+}
+
+.videoComponent{
+  position: absolute;
+  top: 21%;
+  left: 6.5%;
+  width: 40%;
+}
+
+.snapshot{
+  position: absolute;
+  top: 21%;
+  left: 6.5%;
+  width: 40%;
+}
+
+.screenshot_btn{
+  position: absolute;
+  top: 30%;
+  left: 55%;
+  z-index: 2;
+  width: 10%;
+  pointer-events: all;
+}
+
+.reset_btn{
+  position: absolute;
+  top: 40%;
+  left: 55%;
+  z-index: 2;
+  width: 10%;
+  pointer-events: all;
+}
+
+.analyse_btn{
+  position: absolute;
+  top: 70%;
+  left: 55%;
+  z-index: 2;
+  width: 10%;
+  pointer-events: all;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/*Loading Animation Styling*/
+.loadingicon{
+	position: absolute;
+	z-index: 100;
+	width: 10%;
+	left: 45%;
+	top: 45%;
+	visibility: hidden;
+}
+
+.loadingbg{
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	z-index: 99;
+	position: absolute;
+	top: 0%;
+	opacity: 0.8;
+	visibility: hidden;
+}

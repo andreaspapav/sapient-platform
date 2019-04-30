@@ -1,0 +1,168 @@
+.menu_background{
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  z-index: 80;
+}
+
+.imagebtn{
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  width: 20%;
+  opacity: 0.8;
+  transition: left 1s;
+}
+
+.imagetext{
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  width: 20%;
+  transition: left 1s;
+}
+
+.imagebtn_details{
+  position: absolute;
+  top: 40%;
+  left: 15.6%;
+  width: 18.3%;
+  height: 23%;
+  opacity: 0.8;
+  transition: width 1s, height 1s, top 1s, left 1s;
+  visibility: hidden;
+  z-index: 80;
+}
+
+.image_title{
+  position: absolute;
+  top: 26%;
+  left: 15%;
+  width: 10%;
+  z-index: 100;
+  visibility: hidden;
+}
+
+.upload_icon{
+  position: absolute;
+  top: 35%;
+  left: 8%;
+  width: 10%;
+  z-index: 100;
+  visibility: hidden;
+}
+
+
+.webcam_icon{
+  position: absolute;
+  top: 37%;
+  left: 22%;
+  width: 10%;
+  z-index: 100;
+  visibility: hidden;
+}
+
+.videobtn{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 20%;
+  opacity: 0.8;
+}
+
+.videotext{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 20%;
+}
+
+.videobtn_details{
+  position: absolute;
+  top: 40%;
+  left: 40.6%;
+  width: 18.3%;
+  height: 23%;
+  opacity: 0.8;
+  transition: width 1s, height 1s, top 1s, left 1s;
+  visibility: hidden;
+
+}
+
+.video_icon{
+  position: absolute;
+  top: 35%;
+  left: 45%;
+  width: 12%;
+  z-index: 100;
+  visibility: hidden;
+}
+
+.video_title{
+  position: absolute;
+  top: 26%;
+  left: 45%;
+  width: 9%;
+  z-index: 100;
+  visibility: hidden;
+}
+
+
+.livebtn{
+  position: absolute;
+  top: 40%;
+  left: 65%;
+  width: 20%;
+  opacity: 0.8;
+  transition: left 3s;
+}
+
+.livetext{
+  position: absolute;
+  top: 40%;
+  left: 65%;
+  width: 20%;
+  transition: left 3s;
+}
+
+.livebtn_details{
+  position: absolute;
+  top: 40%;
+  left: 65.6%;
+  width: 18.3%;
+  height: 23%;
+  opacity: 0.8;
+  transition: width 1s, height 1s, top 1s, left 1s;
+  visibility: hidden;
+
+}
+
+#imagebtn,#imagetext{
+  animation-delay: 900ms;
+  transition-property: width;
+  transition-duration: 0.2s;
+}
+
+#videobtn,#videotext{
+  animation-delay: 1200ms;
+  transition-property: width;
+  transition-duration: 0.2s;
+}
+
+#livebtn,#livetext{
+  animation-delay: 1500ms;
+  transition-property: width;
+  transition-duration: 0.2s;
+}
+
+.home_btn{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 4.5%;
+  padding-left: 1.5rem;
+  padding-top: 1.5rem;
+  opacity: 0.8;
+  z-index: 3;
+}

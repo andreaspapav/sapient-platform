@@ -1,0 +1,102 @@
+html,body{
+	width:100%;
+	height:100%;
+	overflow: hidden;
+}
+
+.background_image{
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  z-index: 1;
+}
+
+form{
+  z-index: 0;
+  position: absolute;
+  top: 0%;
+  height: 100vh;
+  width: 100%;
+  pointer-events:none;
+
+}
+
+.home_btn{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 4.5%;
+  padding-left: 1.5rem;
+  padding-top: 1.5rem;
+  opacity: 0.8;
+  z-index: 3;
+}
+
+.help_btn{
+  position: absolute;
+  top: 0%;
+  left: 96%;
+  width: 2.5%;
+  padding-top: 1.5rem;
+  opacity: 0.8;
+  z-index: 3;
+}
+
+.choosefile_btn{
+  position: absolute;
+  top: 30%;
+  left: 55%;
+  z-index: 5;
+  width: 10%;
+  pointer-events: all;
+}
+.upload_btn{
+  position: absolute;
+  top: 40%;
+  left: 55%;
+  z-index: 2;
+  width: 10%;
+  pointer-events: all;
+}
+
+.analyse_btn{
+  position: absolute;
+  top: 70%;
+  left: 55%;
+  z-index: 2;
+  width: 10%;
+  pointer-events: all;
+}
+
+.output_text{
+	font-size: 1.2rem;
+	position: absolute;
+	top: 27%;
+	left: 71%;
+	color: green;
+	font-family: 'Courier', sans-serif;
+	height: 45vh;
+	width: 26vw;
+	overflow-y: scroll!important;
+}
+
+/*Styling for loading Animation*/
+.loadingicon{
+	position: absolute;
+	z-index: 100;
+	width: 10%;
+	left: 45%;
+	top: 45%;
+	visibility: hidden;
+}
+
+.loadingbg{
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	z-index: 99;
+	position: absolute;
+	top: 0%;
+	opacity: 0.8;
+	visibility: hidden;
+}
