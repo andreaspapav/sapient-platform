@@ -30,11 +30,13 @@ This session has 4 sections to deploy:
 ```
 <h3>AzureVM</h3>
 Login to the Azure Dashboard, and deploy a ubuntu virtual machine. In details, please make sure the following:
+
 ```
-open the port for ssh, http and https
-GPU family virtual machine
-Attaching an additional block storage disk to the VM
+1.open the port for ssh, http and https
+2.GPU family virtual machine
+3.Attaching an additional block storage disk to the VM
 ```
+
 <h3>Linux Server Configuration</h3>
 After you start running the Ubuntu virtual machine, make sure you first refresh the apt-get repository, and then install the followings:
 ```
