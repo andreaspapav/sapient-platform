@@ -1,5 +1,4 @@
-<h1>SAPIENT Platform</h1>
-<h2>The intelligent way of monitoring CCTVs</h2>
+<h1>SAPIENT Platform -</h1><h2> The intelligent way of monitoring CCTVs</h2>
 
 <h2>CCTV ANALYSIS FOR CAMDEN COUNCIL</h2>
 
