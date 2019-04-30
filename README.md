@@ -30,31 +30,32 @@ Face/Item Recognition Installation
 ```
 <h3>AzureVM</h3>
 Login to the Azure Dashboard, and deploy a ubuntu virtual machine. In details, please make sure the following:
-
+```
 open the port for ssh, http and https
 GPU family virtual machine
 Attaching an additional block storage disk to the VM
-
+```
 <h3>Linux Server Configuration</h3>
 After you start running the Ubuntu virtual machine, make sure you first refresh the apt-get repository, and then install the followings:
-
+```
 php
 Anaconda
 swig
 apache2
 essential-tools
 ffmpeg
+```
 After the installation, perform the followings:
-
+```
 git clone out 'sapient' repository
 setting the default directory of the apache to be '/var/www/sapient/Web'
 sudo chown www-data:www-data /var/www/
 sudo chmod 755 -R /var/www/
 adding your current user to www-data group
-
+```
 <h3>Posture Recognition</h3>
 The following is the installation guide:
-
+```
 conda create -n posture python=3.6 pip
 source activate posture
 pip install -r requirements.txt (inside the tf-pose-estimation directory)
@@ -62,11 +63,12 @@ pip install tensorflow
 pip install opencv-python pandas sklearn numpy
 cd tf_pose/pafprocess
 swig -python -c++ pafprocess.i && python setup.py build_ext --inplace
-
+```
 <h3>Face & Item Recognition</h3>
 The following is the installation guide:
-
+```
 source activate posture
 pip install -r requirements.txt
 pip install google-cloud-vision
 export GOOGLE_APPLICATION_CREDENTIALS="/var/www/sapient/FaceItem/service-account-file.json"
+```
