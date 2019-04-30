@@ -81,3 +81,6 @@ The following is the installation guide:
 3.pip install google-cloud-vision
 4.export GOOGLE_APPLICATION_CREDENTIALS="/var/www/sapient/FaceItem/service-account-file.json"
 ```
+<h2>Deployment Manual for Local Integration Using Flask</h2>
+
+Install all the requirements found in the 'requirements_pip.txt' on your system or virtual env then pull our Flask Implementation version repository, https://github.com/jasonshaoshun/OpenCV_Web . Installation instructions can be found on the README file of this repository.
