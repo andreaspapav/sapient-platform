@@ -88,4 +88,4 @@ Install all the requirements found in the 'requirements_pip.txt' on your system 
 <h2>Demo</h2>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sTBpBowPHQA
 " target="_blank"><img src="http://img.youtube.com/vi/sTBpBowPHQA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="720" height="480" border="10" /></a>
