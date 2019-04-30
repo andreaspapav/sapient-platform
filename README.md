@@ -22,12 +22,12 @@ The most important feature in the web application, used to recognize objects in 
 <h2>Deployment Manual for AzureVM Integration</h2>
 
 This session has 4 sections to deploy:
-
+```
 AzureVM
 Linux Server Configuration
 Posture Recognition Installation
 Face/Item Recognition Installation
-
+```
 <h3>AzureVM</h3>
 Login to the Azure Dashboard, and deploy a ubuntu virtual machine. In details, please make sure the following:
 
