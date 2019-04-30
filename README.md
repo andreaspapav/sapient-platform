@@ -39,38 +39,45 @@ Login to the Azure Dashboard, and deploy a ubuntu virtual machine. In details, p
 
 <h3>Linux Server Configuration</h3>
 After you start running the Ubuntu virtual machine, make sure you first refresh the apt-get repository, and then install the followings:
+
 ```
-php
-Anaconda
-swig
-apache2
-essential-tools
-ffmpeg
+1.php
+2.Anaconda
+3.swig
+4.apache2
+5.essential-tools
+6.ffmpeg
 ```
+
 After the installation, perform the followings:
+
 ```
-git clone out 'sapient' repository
-setting the default directory of the apache to be '/var/www/sapient/Web'
-sudo chown www-data:www-data /var/www/
-sudo chmod 755 -R /var/www/
-adding your current user to www-data group
+1.git clone out 'sapient-platform' repository
+2.setting the default directory of the apache to be '/var/www/sapient/Web'
+3.sudo chown www-data:www-data /var/www/
+4.sudo chmod 755 -R /var/www/
+5.adding your current user to www-data group
 ```
+
 <h3>Posture Recognition</h3>
 The following is the installation guide:
+
 ```
-conda create -n posture python=3.6 pip
-source activate posture
-pip install -r requirements.txt (inside the tf-pose-estimation directory)
-pip install tensorflow
-pip install opencv-python pandas sklearn numpy
-cd tf_pose/pafprocess
-swig -python -c++ pafprocess.i && python setup.py build_ext --inplace
+1.conda create -n posture python=3.6 pip
+2.source activate posture
+3.pip install -r requirements.txt (inside the tf-pose-estimation directory)
+4.pip install tensorflow
+5.pip install opencv-python pandas sklearn numpy
+6.cd tf_pose/pafprocess
+7.swig -python -c++ pafprocess.i && python setup.py build_ext --inplace
 ```
+
 <h3>Face & Item Recognition</h3>
 The following is the installation guide:
+
 ```
-source activate posture
-pip install -r requirements.txt
-pip install google-cloud-vision
-export GOOGLE_APPLICATION_CREDENTIALS="/var/www/sapient/FaceItem/service-account-file.json"
+1.source activate posture
+2.pip install -r requirements.txt
+3.pip install google-cloud-vision
+4.export GOOGLE_APPLICATION_CREDENTIALS="/var/www/sapient/FaceItem/service-account-file.json"
 ```
