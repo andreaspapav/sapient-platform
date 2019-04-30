@@ -11,7 +11,7 @@ Our achievement is a web application allowing the machine to perform the image r
 <h2>Key Features</h2>
 
 <h3>Posture Recognition API</h3>
-Developed a posture recognition which can recognise right amount of humans in the frame and the postures of sitting, standing and laying.
+Developed a posture recognition which can recognise any amount of humans in the frame and the postures of sitting, standing and laying.
 
 <h3>Face Recognition API</h3>
 Added the face recognition api as it could be used to seperate each person captured in the video footage as an individual. Its used in order to track down people moving in the same area over time as it can be considered suspicious behaviour. In the future it can be used with association to the police database in order to track down wanted fugitives.
